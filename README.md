@@ -13,7 +13,10 @@
   <img align="center" alt="Rafa-Js" height="30" width="30" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg">
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg">
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-  <img align="center" alt="Rafa-Js" height="40" width="60" src="https://github.com/edavis10/redmine_logo/blob/master/redmine_logo.svg">
+  <img align="center" alt="Rafa-Js" height="30" width="30" src="https://cdn.worldvectorlogo.com/logos/azure-1.svg">
+  <img align="center" alt="Rafa-Js" height="30" width="30" src="https://cdn.worldvectorlogo.com/logos/jira-1.svg">
+  <img align="center" alt="Rafa-Js" height="30" width="30" src="https://cdn.worldvectorlogo.com/logos/confluence-1.svg">
+  
 
 </div>
   
