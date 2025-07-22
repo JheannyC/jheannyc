@@ -1,10 +1,10 @@
 ## Welcome to my profile! <br><br> My name is Jeane and I am Quality Analyst!
 
-<div align="center">
+<!--div align="center">
   <a href="https://github.com/jheannyc">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jheannyc&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jheannyc&layout=compact&langs_count=7&theme=midnight-purple"/>
-</div>
+</div-->
   
   #### Languages, frameworks and other tools then I know:
 <div style="display: inline_block">
