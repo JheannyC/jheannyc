@@ -67,12 +67,12 @@ Aqui, meu papel como **QA** vai além do "testar" — atuo como **garantia viva 
 *Consigo me adaptar com o uso de ferramentas e processos diversos.*
 
 
-## 📈 Contribuições e Impacto
+## Contribuições e Impacto
 
-- ✅ Aumento da cobertura de testes: **35% → 85%**
-- 🐛 Redução de bugs em produção: **-42%**
-- 🔍 Detecção de falhas críticas antes do QA: **+3 ciclos consecutivos**
-- ⏱️ Tempo de feedback para devs reduzido em **30%**
+- Aumento da cobertura de testes: **35% → 85%**
+- Redução de bugs em produção: **-42%**
+- Detecção de falhas críticas antes do QA: **+3 ciclos consecutivos**
+- Tempo de feedback para devs reduzido em **30%**
 
 ---
 
