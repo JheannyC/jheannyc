@@ -59,7 +59,7 @@ Aqui, meu papel como **QA** vai além do "testar" — atuo como **garantia viva 
 
 | Categoria              | Ferramentas                   |
 |------------------------|-------------------------------|
-| Testes Funcionais      | Cypress                       |
+| Testes automatizados   | Cypress                       |
 | Testes de API          | Postman, Swagger              |
 | Gestão & Documentação  | Jira, Zephyr, Confluence      |
 | Execução               | Jenkins, Azure                |
