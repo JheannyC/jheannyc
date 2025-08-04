@@ -18,7 +18,7 @@
 
 </div>-->
   
-  # Seja bem-vindo (a)
+  # Seja bem-vindo(a)!
 
 ![badge-qa](https://img.shields.io/badge/quality-assured-%2300b894?style=flat&logo=checkmarx&logoColor=white)
 <!--![badge-status](https://img.shields.io/badge/status-em%20andamento-yellow) 
