@@ -38,7 +38,7 @@ Aqui, meu papel como **QA** vai além do "testar" — atuo como **garantia viva 
 ##  Qualidade em ação
 
 <div align="center">
-  <img alt="No GIF: um gatinho digitando freneticamente em um laptop com moldura de likes" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2p2N2wxNjdyN3dycTgxZ25iMTFiZHpwZXprMWtyNHV3MzN5Z2lyZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7WTL4qQCbbLLV2Pm/giphy.gif" width="600" />
+  <img alt="No GIF: um gatinho digitando freneticamente em um laptop com moldura de likes com o texto Quality Assurance" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2p2N2wxNjdyN3dycTgxZ25iMTFiZHpwZXprMWtyNHV3MzN5Z2lyZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7WTL4qQCbbLLV2Pm/giphy.gif" width="600" />
    <br><i>Acima: visão geral da atuação de QA, explorando bugs e garantindo estabilidade.</i>
 </div>
 
